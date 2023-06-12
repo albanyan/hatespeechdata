@@ -299,7 +299,7 @@ Please send contributions via github pull request. You can do this by visiting t
 * Task description: Four binary classification tasks (1) Binary (Counterhate, Not), (2) Binary (Counterhate_with_Justification, Not), (3) Binary (Attack_Author, Not), and (4) Binary (Additional_Hate, Not)
 * Details of task: Indicate whether the reply to a hateful tweet (a) is counter hate speech, (b) provides a justification, (c) attacks the author of the tweet, and (d) adds additional hate
 * Size of dataset: 5652 hateful tweets and replies
-* Percentage abusive: All main tweets are hateful tweets
+* Percentage abusive: 100% (All main tweets are hateful tweets)
 * Language: English
 * Level of annotation: Tweets
 * Platform: Twitter
